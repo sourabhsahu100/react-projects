@@ -1,0 +1,36 @@
+{
+  "jobs": [
+    {
+      "id": "f0ff",
+      "title": "JavaScript Devloper",
+      "description": "Need a developer to develop and maintain javascript applications.",
+      "company": "NewOne Tech",
+      "location": "Pune, MH, IN",
+      "imageUrl": "https://th.bing.com/th/id/OIP.qJw9_0O8nChBLvTBoEl6sgHaD4?pid=ImgDet&w=168.00000000000003&h=87.92&c=7&dpr=1.3"
+    },
+    {
+      "id": "0291",
+      "title": "React JS Developer",
+      "description": "Develop and maintain, a robust and scalable react applications.",
+      "company": "ABC Company",
+      "location": "Bhubaneswar, OD, IN",
+      "imageUrl": "https://th.bing.com/th/id/OIP.octXPfKowLU8iYDQjfZCsAHaDk?pid=ImgDet&w=168&h=101.04705882352941&c=7&dpr=1.3"
+    },
+    {
+      "id": "f01e",
+      "title": "Java Developer",
+      "description": "Develop and maintain the Enterprise Java application.",
+      "company": "XYZ Tech",
+      "location": "Mumbai, MH, IN",
+      "imageUrl": "https://th.bing.com/th/id/OIP.TyVnl3sUrkmKe8NSgVGu5AHaFj?pid=ImgDet&w=168.00000000000003&h=126.00000000000001&c=7&dpr=1.3"
+    },
+    {
+      "id": "720e",
+      "title": "AI/ML Developer",
+      "description": "Develop the AL and ML algorithms to resolve the complex problems.",
+      "company": "Brain AI Tech",
+      "location": "HYD, IN",
+      "imageUrl": "https://th.bing.com/th/id/OIP.3NGUBErTG6PU5Wln8oIRkQHaEV?pid=ImgDet&w=168&h=102.55813953488372&c=7&dpr=1.3"
+    }
+  ]
+}
